@@ -1,7 +1,10 @@
 /*  your css code here. If applicable */
-nav{
+.container{
 	background:#D3D3D3;
 	padding:10px;
+}
+ul{
+	display:flex;
 }
 li{
 	list-style:none;
